@@ -1,0 +1,53 @@
+INSIGHTAGENT BUSINESS KNOWLEDGE
+
+Revenue:
+Revenue is the total amount of money generated from product sales before deducting costs.
+
+Profit:
+Profit represents the amount remaining after relevant costs are deducted from revenue.
+
+Profit Margin:
+Profit margin is calculated as:
+Profit Margin = (Profit / Revenue) × 100
+
+Units Sold:
+Units sold represents the total number of products sold during a given period.
+
+Regional Performance:
+Regional performance can be compared using revenue, profit, units sold, and profit margin.
+
+Product Performance:
+Product performance should consider both sales volume and profitability.
+
+Revenue and Profit:
+Revenue should be analyzed together with profit because high revenue does not always mean high profitability.
+
+Declining Revenue:
+A decline in revenue should be investigated by comparing regions, products, categories, and time periods.
+
+Business Recommendations:
+Recommendations should be based on measurable evidence from the available data.
+
+Facts and Explanations:
+When answering analytical questions, clearly distinguish between observed facts and possible explanations.
+
+Data Limitations:
+If the available data is insufficient to support a conclusion, the system should explicitly state that limitation.
+
+Business Question: Highest Revenue Region:
+To identify the highest revenue region, compare total revenue across all available regions.
+
+Business Question: Highest Profit Product:
+To identify the highest profit product, compare total profit across all available products.
+
+Business Question: Strongest Sales Month:
+To identify the strongest sales month, compare total revenue across the available months.
+
+Business Question: Highest Profit Margin:
+To identify products with the highest profit margins, compare profit margin calculated from total profit divided by total revenue.
+
+Business Question: Management Focus:
+Management focus should be determined using measurable indicators such as revenue, profit, units sold, and profit margin.
+
+Business Question: Revenue Change:
+Revenue changes should be investigated by comparing time periods, regions, products, and categories.
